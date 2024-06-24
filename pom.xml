@@ -5,13 +5,10 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.learning</groupId>
-    <artifactId>selenium-workbench</artifactId>
+    <artifactId>automation-ci-cd</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>pom</packaging>
     <modules>
-        <module>selenium_coreJava</module>
-        <module>selenium_Alert</module>
-        <module>selenium_dropDowns</module>
         <module>FullFrameWorkProject</module>
     </modules>
 

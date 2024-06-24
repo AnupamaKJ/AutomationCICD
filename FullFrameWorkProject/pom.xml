@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.learning</groupId>
-        <artifactId>selenium-workbench</artifactId>
+        <artifactId>automation-ci-cd</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 

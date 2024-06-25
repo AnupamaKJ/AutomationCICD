@@ -17,6 +17,9 @@ public class StandaloneTest {
 
 	public static void main(String[] args) throws InterruptedException {
 		
+		
+		//New ccmmands are added
+		
 		String productName="ZARA COAT 3";
 		WebDriver driver = new ChromeDriver();
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
